@@ -1,5 +1,5 @@
 # activejob-null
-ActiveJob Queue Adapter That Discards All Jobs (/dev/null for background jobs)
+ActiveJob Queue Adapter That Discards All Jobs (`/dev/null` for background jobs)
 
 ### Installation and Setup
 
